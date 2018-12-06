@@ -1,0 +1,12 @@
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root@123
+    url: jdbc:mysql://127.0.0.1:3306/test
+server:
+  port: 8088
+  servlet:
+    context-path: /first/
+thymeleaf:
