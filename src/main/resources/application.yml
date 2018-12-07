@@ -9,4 +9,3 @@ server:
   port: 8088
   servlet:
     context-path: /first/
-thymeleaf:
